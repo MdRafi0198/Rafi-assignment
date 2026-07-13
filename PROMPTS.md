@@ -9,7 +9,7 @@ Hero Section
 Speakers Section
 Pricing Section
 
-Now create an FAQ section that perfectly matches the existing website design shown in the reference image.
+Now create an FAQ section that perfectly matches the existing website design shown in the reference image,
 
 The design must blend seamlessly with the rest of the page. Do not redesign the section or introduce a new visual style.
 
